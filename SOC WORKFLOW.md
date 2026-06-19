@@ -220,7 +220,7 @@ Kiểm tra:
 
 #### 2. Investigation (Decision Level Only)
 
-👉 KHÔNG phân tích log lại (đã làm ở IV)
+đã làm ở IV
 
 Chỉ xác định:
 
